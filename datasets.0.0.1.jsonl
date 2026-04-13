@@ -1,0 +1,160 @@
+{"text": "Could you please explain how to implement a binary search tree in Python?", "label": "fluent"}
+{"text": "I'm interested in learning about the architectural differences between Microservices and Monoliths.", "label": "fluent"}
+{"text": "Would you be able to provide a comprehensive guide on optimizing SQL queries for large datasets?", "label": "fluent"}
+{"text": "What are the best practices for maintaining a scalable React application?", "label": "fluent"}
+{"text": "I would like to understand the implications of using asynchronous programming in a high-concurrency environment.", "label": "fluent"}
+{"text": "Can you detail the process of deploying a Docker container to an AWS EKS cluster?", "label": "fluent"}
+{"text": "It would be beneficial to have a thorough comparison of various state management libraries in Flutter.", "label": "fluent"}
+{"text": "How does the garbage collection mechanism work in Java, and what are its performance impacts?", "label": "fluent"}
+{"text": "I'm looking for an in-depth analysis of the security vulnerabilities commonly found in RESTful APIs.", "label": "fluent"}
+{"text": "Could you help me architect a real-time data processing pipeline using Apache Kafka?", "label": "fluent"}
+{"text": "What is the most efficient way to handle large-scale image processing in a cloud environment?", "label": "fluent"}
+{"text": "I am seeking advice on implementing a robust authentication system using OAuth 2.0 and JWT.", "label": "fluent"}
+{"text": "Could you elaborate on the concept of dependency injection and its benefits in software design?", "label": "fluent"}
+{"text": "How can I improve the accessibility of my web application according to WCAG standards?", "label": "fluent"}
+{"text": "I'm curious about the latest advancements in natural language processing and their practical applications.", "label": "fluent"}
+{"text": "What are the pros and cons of using a NoSQL database versus a traditional relational database?", "label": "fluent"}
+{"text": "Could you provide a step-by-step tutorial on building a full-stack application with Next.js and Supabase?", "label": "fluent"}
+{"text": "How do I configure a CI/CD pipeline using GitHub Actions for a multi-module project?", "label": "fluent"}
+{"text": "I would appreciate a detailed explanation of the CAP theorem and its relevance to distributed systems.", "label": "fluent"}
+{"text": "What are the key differences between various CSS-in-JS libraries and when should each be used?", "label": "fluent"}
+{"text": "Could you demonstrate how to use decorators in Python to implement cross-cutting concerns?", "label": "fluent"}
+{"text": "I am looking for a guide on setting up a secure and performant GraphQL server.", "label": "fluent"}
+{"text": "What is the best approach for managing secrets and environment variables in a serverless architecture?", "label": "fluent"}
+{"text": "Could you explain the inner workings of the Virtual DOM and how it optimizes UI updates?", "label": "fluent"}
+{"text": "How can I implement a multi-tenant architecture in a SaaS application efficiently?", "label": "fluent"}
+{"text": "I'm interested in the performance characteristics of different sorting algorithms on various data types.", "label": "fluent"}
+{"text": "What are the fundamental principles of clean code and how can they be applied in everyday development?", "label": "fluent"}
+{"text": "Could you provide a breakdown of the cost and performance trade-offs for different cloud storage options?", "label": "fluent"}
+{"text": "How do I implement a custom hook in React for handling complex form state?", "label": "fluent"}
+{"text": "I would like to understand the nuances of memory management in C++ and how to avoid memory leaks.", "label": "fluent"}
+{"text": "What are the best strategies for load balancing a globally distributed web application?", "label": "fluent"}
+{"text": "Could you explain the concept of event sourcing and when it should be utilized in a system?", "label": "fluent"}
+{"text": "How can I effectively use Protobuf for inter-service communication in a microservices setup?", "label": "fluent"}
+{"text": "I'm seeking recommendations for the best monitoring and logging tools for a production Kubernetes cluster.", "label": "fluent"}
+{"text": "Could you provide an overview of the current landscape of mobile app development frameworks?", "label": "fluent"}
+{"text": "What are the essential patterns for building resilient and fault-tolerant systems in the cloud?", "label": "fluent"}
+{"text": "How do I implement a robust error handling strategy in a Node.js Express application?", "label": "fluent"}
+{"text": "I would like to learn about the various types of machine learning models and their specific use cases.", "label": "fluent"}
+{"text": "Could you explain the process of performance profiling and optimization for a WebAssembly module?", "label": "fluent"}
+{"text": "What are the best practices for documenting a large-scale software project effectively?", "label": "fluent"}
+{"text": "How do I merge two arrays in JavaScript?", "label": "normal"}
+{"text": "Show me a simple way to read a file in Python.", "label": "normal"}
+{"text": "What is the difference between a list and a tuple?", "label": "normal"}
+{"text": "How to change the background color of a div in CSS?", "label": "normal"}
+{"text": "Can you give me a basic SQL query to select all rows from a table?", "label": "normal"}
+{"text": "How do I install a package using npm?", "label": "normal"}
+{"text": "Explain what a function does in programming.", "label": "normal"}
+{"text": "How to center a text in HTML?", "label": "normal"}
+{"text": "What is a variable and how do I use it?", "label": "normal"}
+{"text": "How do I add a new element to a list in Python?", "label": "normal"}
+{"text": "Can you show me how to write a for loop in Java?", "label": "normal"}
+{"text": "How to create a basic React component?", "label": "normal"}
+{"text": "What is the use of the 'git push' command?", "label": "normal"}
+{"text": "How to find the length of a string in C#?", "label": "normal"}
+{"text": "Show me how to use the 'if' statement in C++.", "label": "normal"}
+{"text": "How do I format a date in JavaScript?", "label": "normal"}
+{"text": "What is an API and how does it work?", "label": "normal"}
+{"text": "How to create a simple table in HTML?", "label": "normal"}
+{"text": "How do I commit my changes in Git?", "label": "normal"}
+{"text": "What is a class in object-oriented programming?", "label": "normal"}
+{"text": "How to make an HTTP request in Python?", "label": "normal"}
+{"text": "Show me how to handle an error in JavaScript using try-catch.", "label": "normal"}
+{"text": "How to add a comment in my code?", "label": "normal"}
+{"text": "What is the purpose of the 'head' tag in HTML?", "label": "normal"}
+{"text": "How do I create a new branch in Git?", "label": "normal"}
+{"text": "How to find a value in a dictionary in Python?", "label": "normal"}
+{"text": "Show me a simple example of a switch statement in PHP.", "label": "normal"}
+{"text": "How to redirect a page in HTML?", "label": "normal"}
+{"text": "What is a database and why do we use it?", "label": "normal"}
+{"text": "How do I delete a file using Python?", "label": "normal"}
+{"text": "How to use the 'map' function in JavaScript?", "label": "normal"}
+{"text": "Show me how to create a link in HTML.", "label": "normal"}
+{"text": "How to change the font size of a paragraph in CSS?", "label": "normal"}
+{"text": "What is the difference between '==' and '===' in JavaScript?", "label": "normal"}
+{"text": "How to sort a list in Python?", "label": "normal"}
+{"text": "Show me how to use the 'while' loop in Ruby.", "label": "normal"}
+{"text": "How to create an image tag in HTML?", "label": "normal"}
+{"text": "What is a constant in programming?", "label": "normal"}
+{"text": "How to get the current time in Python?", "label": "normal"}
+{"text": "Show me how to use the 'export' keyword in ES6.", "label": "normal"}
+{"text": "bhai, how to make login page in react? simple wala.", "label": "hinglish"}
+{"text": "me stuck with git error. help karona.", "label": "hinglish"}
+{"text": "python me list se duplicate kaise nikale? shortcut batao.", "label": "hinglish"}
+{"text": "mera website slow chal raha hai, optimize kaise karu?", "label": "hinglish"}
+{"text": "can you explain js callbacks? bahut confusion hai.", "label": "hinglish"}
+{"text": "how to use groq api? documentation thoda tough hai.", "label": "hinglish"}
+{"text": "sql me join query kaise likhte hai? example ke sath batao.", "label": "hinglish"}
+{"text": "mujhe ek code chahiye jo file upload kare server par.", "label": "hinglish"}
+{"text": "next.js better hai ya plain react? beginner ke liye batao.", "label": "hinglish"}
+{"text": "how to deploy on vercel? step by step process plzz.", "label": "hinglish"}
+{"text": "css me grid use karna hai layout ke liye. help me.", "label": "hinglish"}
+{"text": "variable name kaise decide kare? koi rules hai kya?", "label": "hinglish"}
+{"text": "mera code crash ho raha hai null pointer se. solve kaise kare?", "label": "hinglish"}
+{"text": "how to store user session in node js? simple method.", "label": "hinglish"}
+{"text": "api response thoda late aa raha hai. fast kaise kare?", "label": "hinglish"}
+{"text": "dark mode feature kaise add kare website me?", "label": "hinglish"}
+{"text": "mujhe seekhna hai docker. kaha se start karu?", "label": "hinglish"}
+{"text": "responsive design ke liye media query kaise likhu?", "label": "hinglish"}
+{"text": "form validation react me kaise karte hai? easy way.", "label": "hinglish"}
+{"text": "mongodb or postgress, konsa best hai small project ke liye?", "label": "hinglish"}
+{"text": "tailwind css setup kaise kare vite project me?", "label": "hinglish"}
+{"text": "how to fetch data from two apis at same time?", "label": "hinglish"}
+{"text": "mujhe ek weather app banana hai. help karoge?", "label": "hinglish"}
+{"text": "error handling best practice kya hai express me?", "label": "hinglish"}
+{"text": "git pull aur fetch me difference kya hai exactly?", "label": "hinglish"}
+{"text": "local storage me data kaise save kare permanently?", "label": "hinglish"}
+{"text": "jwt token expiry kaise check kare frontend me?", "label": "hinglish"}
+{"text": "mujhe ek simple portfolio website ka template chahiye.", "label": "hinglish"}
+{"text": "how to use environment variables in python safely?", "label": "hinglish"}
+{"text": "mera component re-render ho raha hai baar baar. stop kaise karu?", "label": "hinglish"}
+{"text": "typescript me interface aur type me kya fark hai?", "label": "hinglish"}
+{"text": "django me admin panel customize kaise kare?", "label": "hinglish"}
+{"text": "how to integrate payment gateway like stripe?", "label": "hinglish"}
+{"text": "muje unit testing sikhna hai jest ke saath.", "label": "hinglish"}
+{"text": "how to handle large files in node stream?", "label": "hinglish"}
+{"text": "website me dynamic routing kaise implement kare?", "label": "hinglish"}
+{"text": "seo ke liye meta tags kaise set kare automatically?", "label": "hinglish"}
+{"text": "mujhe ek bot banana hai discord ke liye python me.", "label": "hinglish"}
+{"text": "firebase setup for push notifications inside react native.", "label": "hinglish"}
+{"text": "how to use chatgpt api to generate code?", "label": "hinglish"}
+{"text": "hwo to maked a flis in pythen?", "label": "error_prone"}
+{"text": "i want loging page cod for webiste", "label": "error_prone"}
+{"text": "can u hilp me with ssql join querys eror", "label": "error_prone"}
+{"text": "js mien array ko sort kasie karein?", "label": "error_prone"}
+{"text": "how too instal nodejs on windos machine", "label": "error_prone"}
+{"text": "me facing prblm wth git push cmd", "label": "error_prone"}
+{"text": "plz hlp to fixes ths bug in my code", "label": "error_prone"}
+{"text": "hwo to center a div usng flex box?", "label": "error_prone"}
+{"text": "variable nt defined eror in my script", "label": "error_prone"}
+{"text": "how too use fetch api for get data?", "label": "error_prone"}
+{"text": "i ned code for emial validtion in react", "label": "error_prone"}
+{"text": "can u xplain what is redux in shrt?", "label": "error_prone"}
+{"text": "how to maked resposive nav bar?", "label": "error_prone"}
+{"text": "sql table me data insert nai ho rha help", "label": "error_prone"}
+{"text": "hwo to delte a row from database?", "label": "error_prone"}
+{"text": "python dict mien value search krna h", "label": "error_prone"}
+{"text": "how to use async await in javascripts?", "label": "error_prone"}
+{"text": "i want to lern coding from scratch", "label": "error_prone"}
+{"text": "how to install pip on linux terminal?", "label": "error_prone"}
+{"text": "cod for simple calculator in c language", "label": "error_prone"}
+{"text": "how too upload image in firebases?", "label": "error_prone"}
+{"text": "me stuck on npm install error help", "label": "error_prone"}
+{"text": "hwo to change password in auth system", "label": "error_prone"}
+{"text": "can u show me for loop in pythn?", "label": "error_prone"}
+{"text": "how too used media query in css file?", "label": "error_prone"}
+{"text": "i want to makes a tictactoe game", "label": "error_prone"}
+{"text": "javascript function not wirking properly", "label": "error_prone"}
+{"text": "how to deploy site on github pages?", "label": "error_prone"}
+{"text": "sql query select frrom table name is wrong", "label": "error_prone"}
+{"text": "hwo to used dotenv file in node app?", "label": "error_prone"}
+{"text": "i ned help wth bootstrap cdn link", "label": "error_prone"}
+{"text": "how to add favicon to html page?", "label": "error_prone"}
+{"text": "me want to learn machine larning", "label": "error_prone"}
+{"text": "hwo to makes a crud app in php?", "label": "error_prone"}
+{"text": "error in python list index out of range", "label": "error_prone"}
+{"text": "how too used useeffect hook in react?", "label": "error_prone"}
+{"text": "i want code for responsive footer", "label": "error_prone"}
+{"text": "hwo to connect nodejs with mongodb?", "label": "error_prone"}
+{"text": "can u show me how too use docker?", "label": "error_prone"}
+{"text": "how to create a user profile page?", "label": "error_prone"}
