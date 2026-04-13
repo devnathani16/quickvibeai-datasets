@@ -1,160 +1,295 @@
-{"text": "Could you please explain how to implement a binary search tree in Python?", "label": "fluent"}
-{"text": "I'm interested in learning about the architectural differences between Microservices and Monoliths.", "label": "fluent"}
-{"text": "Would you be able to provide a comprehensive guide on optimizing SQL queries for large datasets?", "label": "fluent"}
-{"text": "What are the best practices for maintaining a scalable React application?", "label": "fluent"}
-{"text": "I would like to understand the implications of using asynchronous programming in a high-concurrency environment.", "label": "fluent"}
-{"text": "Can you detail the process of deploying a Docker container to an AWS EKS cluster?", "label": "fluent"}
-{"text": "It would be beneficial to have a thorough comparison of various state management libraries in Flutter.", "label": "fluent"}
-{"text": "How does the garbage collection mechanism work in Java, and what are its performance impacts?", "label": "fluent"}
-{"text": "I'm looking for an in-depth analysis of the security vulnerabilities commonly found in RESTful APIs.", "label": "fluent"}
-{"text": "Could you help me architect a real-time data processing pipeline using Apache Kafka?", "label": "fluent"}
-{"text": "What is the most efficient way to handle large-scale image processing in a cloud environment?", "label": "fluent"}
-{"text": "I am seeking advice on implementing a robust authentication system using OAuth 2.0 and JWT.", "label": "fluent"}
-{"text": "Could you elaborate on the concept of dependency injection and its benefits in software design?", "label": "fluent"}
-{"text": "How can I improve the accessibility of my web application according to WCAG standards?", "label": "fluent"}
-{"text": "I'm curious about the latest advancements in natural language processing and their practical applications.", "label": "fluent"}
-{"text": "What are the pros and cons of using a NoSQL database versus a traditional relational database?", "label": "fluent"}
-{"text": "Could you provide a step-by-step tutorial on building a full-stack application with Next.js and Supabase?", "label": "fluent"}
-{"text": "How do I configure a CI/CD pipeline using GitHub Actions for a multi-module project?", "label": "fluent"}
-{"text": "I would appreciate a detailed explanation of the CAP theorem and its relevance to distributed systems.", "label": "fluent"}
-{"text": "What are the key differences between various CSS-in-JS libraries and when should each be used?", "label": "fluent"}
-{"text": "Could you demonstrate how to use decorators in Python to implement cross-cutting concerns?", "label": "fluent"}
-{"text": "I am looking for a guide on setting up a secure and performant GraphQL server.", "label": "fluent"}
-{"text": "What is the best approach for managing secrets and environment variables in a serverless architecture?", "label": "fluent"}
-{"text": "Could you explain the inner workings of the Virtual DOM and how it optimizes UI updates?", "label": "fluent"}
-{"text": "How can I implement a multi-tenant architecture in a SaaS application efficiently?", "label": "fluent"}
-{"text": "I'm interested in the performance characteristics of different sorting algorithms on various data types.", "label": "fluent"}
-{"text": "What are the fundamental principles of clean code and how can they be applied in everyday development?", "label": "fluent"}
-{"text": "Could you provide a breakdown of the cost and performance trade-offs for different cloud storage options?", "label": "fluent"}
-{"text": "How do I implement a custom hook in React for handling complex form state?", "label": "fluent"}
-{"text": "I would like to understand the nuances of memory management in C++ and how to avoid memory leaks.", "label": "fluent"}
-{"text": "What are the best strategies for load balancing a globally distributed web application?", "label": "fluent"}
-{"text": "Could you explain the concept of event sourcing and when it should be utilized in a system?", "label": "fluent"}
-{"text": "How can I effectively use Protobuf for inter-service communication in a microservices setup?", "label": "fluent"}
-{"text": "I'm seeking recommendations for the best monitoring and logging tools for a production Kubernetes cluster.", "label": "fluent"}
-{"text": "Could you provide an overview of the current landscape of mobile app development frameworks?", "label": "fluent"}
-{"text": "What are the essential patterns for building resilient and fault-tolerant systems in the cloud?", "label": "fluent"}
-{"text": "How do I implement a robust error handling strategy in a Node.js Express application?", "label": "fluent"}
-{"text": "I would like to learn about the various types of machine learning models and their specific use cases.", "label": "fluent"}
-{"text": "Could you explain the process of performance profiling and optimization for a WebAssembly module?", "label": "fluent"}
-{"text": "What are the best practices for documenting a large-scale software project effectively?", "label": "fluent"}
-{"text": "How do I merge two arrays in JavaScript?", "label": "normal"}
-{"text": "Show me a simple way to read a file in Python.", "label": "normal"}
-{"text": "What is the difference between a list and a tuple?", "label": "normal"}
-{"text": "How to change the background color of a div in CSS?", "label": "normal"}
-{"text": "Can you give me a basic SQL query to select all rows from a table?", "label": "normal"}
-{"text": "How do I install a package using npm?", "label": "normal"}
-{"text": "Explain what a function does in programming.", "label": "normal"}
-{"text": "How to center a text in HTML?", "label": "normal"}
-{"text": "What is a variable and how do I use it?", "label": "normal"}
-{"text": "How do I add a new element to a list in Python?", "label": "normal"}
-{"text": "Can you show me how to write a for loop in Java?", "label": "normal"}
-{"text": "How to create a basic React component?", "label": "normal"}
-{"text": "What is the use of the 'git push' command?", "label": "normal"}
-{"text": "How to find the length of a string in C#?", "label": "normal"}
-{"text": "Show me how to use the 'if' statement in C++.", "label": "normal"}
-{"text": "How do I format a date in JavaScript?", "label": "normal"}
-{"text": "What is an API and how does it work?", "label": "normal"}
-{"text": "How to create a simple table in HTML?", "label": "normal"}
-{"text": "How do I commit my changes in Git?", "label": "normal"}
-{"text": "What is a class in object-oriented programming?", "label": "normal"}
-{"text": "How to make an HTTP request in Python?", "label": "normal"}
-{"text": "Show me how to handle an error in JavaScript using try-catch.", "label": "normal"}
-{"text": "How to add a comment in my code?", "label": "normal"}
-{"text": "What is the purpose of the 'head' tag in HTML?", "label": "normal"}
-{"text": "How do I create a new branch in Git?", "label": "normal"}
-{"text": "How to find a value in a dictionary in Python?", "label": "normal"}
-{"text": "Show me a simple example of a switch statement in PHP.", "label": "normal"}
-{"text": "How to redirect a page in HTML?", "label": "normal"}
-{"text": "What is a database and why do we use it?", "label": "normal"}
-{"text": "How do I delete a file using Python?", "label": "normal"}
-{"text": "How to use the 'map' function in JavaScript?", "label": "normal"}
-{"text": "Show me how to create a link in HTML.", "label": "normal"}
-{"text": "How to change the font size of a paragraph in CSS?", "label": "normal"}
-{"text": "What is the difference between '==' and '===' in JavaScript?", "label": "normal"}
-{"text": "How to sort a list in Python?", "label": "normal"}
-{"text": "Show me how to use the 'while' loop in Ruby.", "label": "normal"}
-{"text": "How to create an image tag in HTML?", "label": "normal"}
-{"text": "What is a constant in programming?", "label": "normal"}
-{"text": "How to get the current time in Python?", "label": "normal"}
-{"text": "Show me how to use the 'export' keyword in ES6.", "label": "normal"}
-{"text": "bhai, how to make login page in react? simple wala.", "label": "hinglish"}
-{"text": "me stuck with git error. help karona.", "label": "hinglish"}
-{"text": "python me list se duplicate kaise nikale? shortcut batao.", "label": "hinglish"}
-{"text": "mera website slow chal raha hai, optimize kaise karu?", "label": "hinglish"}
-{"text": "can you explain js callbacks? bahut confusion hai.", "label": "hinglish"}
-{"text": "how to use groq api? documentation thoda tough hai.", "label": "hinglish"}
-{"text": "sql me join query kaise likhte hai? example ke sath batao.", "label": "hinglish"}
-{"text": "mujhe ek code chahiye jo file upload kare server par.", "label": "hinglish"}
-{"text": "next.js better hai ya plain react? beginner ke liye batao.", "label": "hinglish"}
-{"text": "how to deploy on vercel? step by step process plzz.", "label": "hinglish"}
-{"text": "css me grid use karna hai layout ke liye. help me.", "label": "hinglish"}
-{"text": "variable name kaise decide kare? koi rules hai kya?", "label": "hinglish"}
-{"text": "mera code crash ho raha hai null pointer se. solve kaise kare?", "label": "hinglish"}
-{"text": "how to store user session in node js? simple method.", "label": "hinglish"}
-{"text": "api response thoda late aa raha hai. fast kaise kare?", "label": "hinglish"}
-{"text": "dark mode feature kaise add kare website me?", "label": "hinglish"}
-{"text": "mujhe seekhna hai docker. kaha se start karu?", "label": "hinglish"}
-{"text": "responsive design ke liye media query kaise likhu?", "label": "hinglish"}
-{"text": "form validation react me kaise karte hai? easy way.", "label": "hinglish"}
-{"text": "mongodb or postgress, konsa best hai small project ke liye?", "label": "hinglish"}
-{"text": "tailwind css setup kaise kare vite project me?", "label": "hinglish"}
-{"text": "how to fetch data from two apis at same time?", "label": "hinglish"}
-{"text": "mujhe ek weather app banana hai. help karoge?", "label": "hinglish"}
-{"text": "error handling best practice kya hai express me?", "label": "hinglish"}
-{"text": "git pull aur fetch me difference kya hai exactly?", "label": "hinglish"}
-{"text": "local storage me data kaise save kare permanently?", "label": "hinglish"}
-{"text": "jwt token expiry kaise check kare frontend me?", "label": "hinglish"}
-{"text": "mujhe ek simple portfolio website ka template chahiye.", "label": "hinglish"}
-{"text": "how to use environment variables in python safely?", "label": "hinglish"}
-{"text": "mera component re-render ho raha hai baar baar. stop kaise karu?", "label": "hinglish"}
-{"text": "typescript me interface aur type me kya fark hai?", "label": "hinglish"}
-{"text": "django me admin panel customize kaise kare?", "label": "hinglish"}
-{"text": "how to integrate payment gateway like stripe?", "label": "hinglish"}
-{"text": "muje unit testing sikhna hai jest ke saath.", "label": "hinglish"}
-{"text": "how to handle large files in node stream?", "label": "hinglish"}
-{"text": "website me dynamic routing kaise implement kare?", "label": "hinglish"}
-{"text": "seo ke liye meta tags kaise set kare automatically?", "label": "hinglish"}
-{"text": "mujhe ek bot banana hai discord ke liye python me.", "label": "hinglish"}
-{"text": "firebase setup for push notifications inside react native.", "label": "hinglish"}
-{"text": "how to use chatgpt api to generate code?", "label": "hinglish"}
-{"text": "hwo to maked a flis in pythen?", "label": "error_prone"}
-{"text": "i want loging page cod for webiste", "label": "error_prone"}
-{"text": "can u hilp me with ssql join querys eror", "label": "error_prone"}
-{"text": "js mien array ko sort kasie karein?", "label": "error_prone"}
-{"text": "how too instal nodejs on windos machine", "label": "error_prone"}
-{"text": "me facing prblm wth git push cmd", "label": "error_prone"}
-{"text": "plz hlp to fixes ths bug in my code", "label": "error_prone"}
-{"text": "hwo to center a div usng flex box?", "label": "error_prone"}
-{"text": "variable nt defined eror in my script", "label": "error_prone"}
-{"text": "how too use fetch api for get data?", "label": "error_prone"}
-{"text": "i ned code for emial validtion in react", "label": "error_prone"}
-{"text": "can u xplain what is redux in shrt?", "label": "error_prone"}
-{"text": "how to maked resposive nav bar?", "label": "error_prone"}
-{"text": "sql table me data insert nai ho rha help", "label": "error_prone"}
-{"text": "hwo to delte a row from database?", "label": "error_prone"}
-{"text": "python dict mien value search krna h", "label": "error_prone"}
-{"text": "how to use async await in javascripts?", "label": "error_prone"}
-{"text": "i want to lern coding from scratch", "label": "error_prone"}
-{"text": "how to install pip on linux terminal?", "label": "error_prone"}
-{"text": "cod for simple calculator in c language", "label": "error_prone"}
-{"text": "how too upload image in firebases?", "label": "error_prone"}
-{"text": "me stuck on npm install error help", "label": "error_prone"}
-{"text": "hwo to change password in auth system", "label": "error_prone"}
-{"text": "can u show me for loop in pythn?", "label": "error_prone"}
-{"text": "how too used media query in css file?", "label": "error_prone"}
-{"text": "i want to makes a tictactoe game", "label": "error_prone"}
-{"text": "javascript function not wirking properly", "label": "error_prone"}
-{"text": "how to deploy site on github pages?", "label": "error_prone"}
-{"text": "sql query select frrom table name is wrong", "label": "error_prone"}
-{"text": "hwo to used dotenv file in node app?", "label": "error_prone"}
-{"text": "i ned help wth bootstrap cdn link", "label": "error_prone"}
-{"text": "how to add favicon to html page?", "label": "error_prone"}
-{"text": "me want to learn machine larning", "label": "error_prone"}
-{"text": "hwo to makes a crud app in php?", "label": "error_prone"}
-{"text": "error in python list index out of range", "label": "error_prone"}
-{"text": "how too used useeffect hook in react?", "label": "error_prone"}
-{"text": "i want code for responsive footer", "label": "error_prone"}
-{"text": "hwo to connect nodejs with mongodb?", "label": "error_prone"}
-{"text": "can u show me how too use docker?", "label": "error_prone"}
-{"text": "how to create a user profile page?", "label": "error_prone"}
+{"text": "Could you develop a responsive dashboard using React and Tailwind CSS?", "label": "frontend"}
+{"text": "I would like you to design a modern landing page for my new SaaS product.", "label": "frontend"}
+{"text": "Please create a sidebar component with smooth hover effects and transitions.", "label": "frontend"}
+{"text": "Can you implement a multi-step form with validation in Vue.js?", "label": "frontend"}
+{"text": "I need a high-performance image gallery with lazy loading and lightbox features.", "label": "frontend"}
+{"text": "Design a professional user profile page with editable fields and a header image.", "label": "frontend"}
+{"text": "Implement a dark mode toggle that persists in local storage for my website.", "label": "frontend"}
+{"text": "Create a complex data table with sorting, filtering, and pagination.", "label": "frontend"}
+{"text": "Build a custom navigation bar that includes a mobile hamburger menu.", "label": "frontend"}
+{"text": "Design an interactive pricing section with multiple tiers and monthly/yearly toggles.", "label": "frontend"}
+{"text": "build a dashboard with charts", "label": "frontend"}
+{"text": "make a sidebar with hover effects", "label": "frontend"}
+{"text": "how to center a div", "label": "frontend"}
+{"text": "design a landing page for my saas", "label": "frontend"}
+{"text": "create a navbar for my website", "label": "frontend"}
+{"text": "make a card component in react", "label": "frontend"}
+{"text": "how to add custom fonts in css", "label": "frontend"}
+{"text": "build a footer with social links", "label": "frontend"}
+{"text": "create a login page ui", "label": "frontend"}
+{"text": "make a responsive grid layout", "label": "frontend"}
+{"text": "bhai dashboard bana de react me charts ke saath", "label": "frontend"}
+{"text": "ek sidebar chahiye hover effect wala fast", "label": "frontend"}
+{"text": "website ka landing page design karna hai saas ke liye", "label": "frontend"}
+{"text": "div ko center kaise kare flexbox use karke?", "label": "frontend"}
+{"text": "react component bana de product card ke liye", "label": "frontend"}
+{"text": "css style update karna hai font change kardo", "label": "frontend"}
+{"text": "mujhe ek simple ui design chahiye weather app ka", "label": "frontend"}
+{"text": "responsive mobile menu kaise banaye simple wala?", "label": "frontend"}
+{"text": "tailwind css me button style karna hai primary", "label": "frontend"}
+{"text": "ek table list bana do search option ke saath", "label": "frontend"}
+{"text": "hwo to center a div usng flex box?", "label": "frontend"}
+{"text": "can u maked a dashbord with charts?", "label": "frontend"}
+{"text": "i want loging page cod for webiste", "label": "frontend"}
+{"text": "how too makes a resposive nav bar?", "label": "frontend"}
+{"text": "css mien font size change krna h paragraph ka", "label": "frontend"}
+{"text": "maked a sidebar with hover effects plz", "label": "frontend"}
+{"text": "building a landing page for saas project", "label": "frontend"}
+{"text": "how to used tailwind grid system?", "label": "frontend"}
+{"text": "create a new ui component for my app", "label": "frontend"}
+{"text": "style elements on my page to look better", "label": "frontend"}
+{"text": "Could you set up a robust FastAPI server with asynchronous database connections?", "label": "backend"}
+{"text": "I need an implementation of a JWT-based authentication system for my Node.js API.", "label": "backend"}
+{"text": "Please architect a scalable database schema for a multi-tenant application.", "label": "backend"}
+{"text": "Can you write a Python script that integrates with the Stripe API for subscription management?", "label": "backend"}
+{"text": "Implement a real-time notification system using WebSockets and Redis.", "label": "backend"}
+{"text": "Design a comprehensive RESTful API for a library management system.", "label": "backend"}
+{"text": "Create a background worker system using Celery and RabbitMQ for heavy processing.", "label": "backend"}
+{"text": "Write a secure service to handle user password resets and email verification.", "label": "backend"}
+{"text": "Establish a connection between my Express app and a PostgreSQL database using Sequelize.", "label": "backend"}
+{"text": "Implement rate limiting and request validation for my production API endpoints.", "label": "backend"}
+{"text": "create a login system with jwt", "label": "backend"}
+{"text": "set up a postgres database", "label": "backend"}
+{"text": "connect my app to an api", "label": "backend"}
+{"text": "write a python script to handle data", "label": "backend"}
+{"text": "setup a simple express server", "label": "backend"}
+{"text": "create a database model for users", "label": "backend"}
+{"text": "how to store files in aws s3", "label": "backend"}
+{"text": "implement search logic in backend", "label": "backend"}
+{"text": "create a middleware for auth", "label": "backend"}
+{"text": "setup redis for caching", "label": "backend"}
+{"text": "api banana hai node me mongodb ke sath", "label": "backend"}
+{"text": "jwt login system kaise implement kare code do", "label": "backend"}
+{"text": "postgres database setup karna hai local me", "label": "backend"}
+{"text": "python script chahiye jo excel file read kare", "label": "backend"}
+{"text": "mongodb model bana de user profile ke liye", "label": "backend"}
+{"text": "rest api create karna hai product list ke liye", "label": "backend"}
+{"text": "auth system setup karna hai simple wala", "label": "backend"}
+{"text": "backend connect karna hai frontend se fast", "label": "backend"}
+{"text": "database me data save kaise kare form se?", "label": "backend"}
+{"text": "express js me routing setup kar do", "label": "backend"}
+{"text": "set up a postgres datbase", "label": "backend"}
+{"text": "connect my app too an api", "label": "backend"}
+{"text": "creath a login system with jwt auth", "label": "backend"}
+{"text": "python scripts for backend logic", "label": "backend"}
+{"text": "how to connect nodejs with mongodb?", "label": "backend"}
+{"text": "backend code for user registration", "label": "backend"}
+{"text": "setup database schemas for my app", "label": "backend"}
+{"text": "error in api connection help me", "label": "backend"}
+{"text": "build a backend server fastly", "label": "backend"}
+{"text": "sql query to select user by id", "label": "backend"}
+{"text": "Could you scaffold a complete full-stack project using Next.js, TypeScript, and Prisma?", "label": "hybrid"}
+{"text": "I need you to build a comprehensive e-commerce platform with a functional cart and payment gateway.", "label": "hybrid"}
+{"text": "Please develop a real-time chat application with both frontend and backend components.", "label": "hybrid"}
+{"text": "Can you architect a task management system that includes user dashboards and a database?", "label": "hybrid"}
+{"text": "I would like a full-featured blog application with an admin panel and SEO optimization.", "label": "hybrid"}
+{"text": "Create a portfolio project that fetches data from a custom API and displays it beautifully.", "label": "hybrid"}
+{"text": "Implement a complete authentication flow including signup, login, and profile editing across the stack.", "label": "hybrid"}
+{"text": "Build a SaaS starter kit with subscription management, user roles, and a settings page.", "label": "hybrid"}
+{"text": "Develop a full-stack POS system with inventory tracking and sales reports.", "label": "hybrid"}
+{"text": "Create a social media clone with post creation, likes, and comment functionality.", "label": "hybrid"}
+{"text": "create a new folder called todo", "label": "hybrid"}
+{"text": "write a python script to scrape news", "label": "hybrid"}
+{"text": "build a fullstack app from scratch", "label": "hybrid"}
+{"text": "setup a new project with all tools", "label": "hybrid"}
+{"text": "create a blog with dashboard", "label": "hybrid"}
+{"text": "make a weather app with api integration", "label": "hybrid"}
+{"text": "build a todo list with database", "label": "hybrid"}
+{"text": "create a system with frontend and backend", "label": "hybrid"}
+{"text": "scaffold a new saas project", "label": "hybrid"}
+{"text": "implement a full features and ui", "label": "hybrid"}
+{"text": "ek project banana hai full stack todo app", "label": "hybrid"}
+{"text": "python script likho jo news fetch kare website se", "label": "hybrid"}
+{"text": "full project scaffold kar do nextjs me", "label": "hybrid"}
+{"text": "blog banana hai admin panel ke saath", "label": "hybrid"}
+{"text": "ek pos system chahiye complete wala", "label": "hybrid"}
+{"text": "full stack app bana do startup ke liye", "label": "hybrid"}
+{"text": "project setup kar do backend frontend dono", "label": "hybrid"}
+{"text": "new startup idea hai project create karo", "label": "hybrid"}
+{"text": "saas platform ka basic structure bana do", "label": "hybrid"}
+{"text": "complete website design with database integration", "label": "hybrid"}
+{"text": "write a pyhton script to scrap news", "label": "hybrid"}
+{"text": "create a new floder called todo app", "label": "hybrid"}
+{"text": "build a fullstack apps for my work", "label": "hybrid"}
+{"text": "mak a blog with dashbord area", "label": "hybrid"}
+{"text": "full stack proyect setup nedeed", "label": "hybrid"}
+{"text": "creating a new project from scratch", "label": "hybrid"}
+{"text": "integrate frontend backend together", "label": "hybrid"}
+{"text": "make a complete web site for me", "label": "hybrid"}
+{"text": "scaffold project with database", "label": "hybrid"}
+{"text": "setup all folders for development", "label": "hybrid"}
+{"text": "Please execute the command to install the necessary dependencies for this project.", "label": "command"}
+{"text": "I would like you to run the development server for the current application.", "label": "command"}
+{"text": "Could you perform a clean build of the production assets using npm?", "label": "command"}
+{"text": "Run a Docker container for Redis and map it to the standard port.", "label": "command"}
+{"text": "Initialize a new Git repository and commit all current changes.", "label": "command"}
+{"text": "Execute the database migrations to bring the schema up to date.", "label": "command"}
+{"text": "Perform a security audit on the installed packages using npm audit.", "label": "command"}
+{"text": "Deploy the application to the production server using the provided SSH credentials.", "label": "command"}
+{"text": "Restart the background worker processes to reflect the latest code changes.", "label": "command"}
+{"text": "Run the unit tests to ensure all functionality is working as expected.", "label": "command"}
+{"text": "run npm install", "label": "command"}
+{"text": "npm install tailwindcss", "label": "command"}
+{"text": "run a docker container for redis", "label": "command"}
+{"text": "start the server", "label": "command"}
+{"text": "git push origin main", "label": "command"}
+{"text": "install dependencies", "label": "command"}
+{"text": "run the test cases", "label": "command"}
+{"text": "build the project", "label": "command"}
+{"text": "restart the dev server", "label": "command"}
+{"text": "check node version", "label": "command"}
+{"text": "npm install kar do dependencies", "label": "command"}
+{"text": "docker container chalao redis ka", "label": "command"}
+{"text": "git commit karo changes saare", "label": "command"}
+{"text": "project build karna hai command do", "label": "command"}
+{"text": "server start kar do terminal me", "label": "command"}
+{"text": "pip install requirements file", "label": "command"}
+{"text": "git status check karna h", "label": "command"}
+{"text": "dev server restart karona", "label": "command"}
+{"text": "deployment command kya h iska?", "label": "command"}
+{"text": "migration run kar do db ka", "label": "command"}
+{"text": "run a dockr contaner for redis", "label": "command"}
+{"text": "npm instasll tailwindcss package", "label": "command"}
+{"text": "how to run serve in terminal?", "label": "command"}
+{"text": "gt push to main branch", "label": "command"}
+{"text": "install all depndencies fast", "label": "command"}
+{"text": "runing the build command now", "label": "command"}
+{"text": "how to check git logs?", "label": "command"}
+{"text": "restart my app server plz", "label": "command"}
+{"text": "cmd to start dev environment", "label": "command"}
+{"text": "perform git add operation", "label": "command"}
+{"text": "Could you please explain the concept of closures in JavaScript with some practical examples?", "label": "explain"}
+{"text": "I would like a detailed explanation of the differences between REST and GraphQL.", "label": "explain"}
+{"text": "Can you clarify how the CAP theorem applied to distributed databases?", "label": "explain"}
+{"text": "What exactly is a recursive function, and how does it manage memory on the stack?", "label": "explain"}
+{"text": "Explain the benefits and trade-offs of using Microservices versus a Monolithic architecture.", "label": "explain"}
+{"text": "Could you elaborate on the security implications of using JWT for authentication?", "label": "explain"}
+{"text": "What is the difference between a shallow copy and a deep copy in Python?", "label": "explain"}
+{"text": "Explain how the event loop in Node.js handles asynchronous operations.", "label": "explain"}
+{"text": "Could you provide an overview of the Solid principles in Object-Oriented Design?", "label": "explain"}
+{"text": "What are CSS-in-JS libraries and why would one choose them over standard CSS?", "label": "explain"}
+{"text": "explain how closure works in javascript", "label": "explain"}
+{"text": "what is a recursive function", "label": "explain"}
+{"text": "tell me about react hooks", "label": "explain"}
+{"text": "what is the difference between sql and nosql", "label": "explain"}
+{"text": "explain async await", "label": "explain"}
+{"text": "how does git work exactly", "label": "explain"}
+{"text": "what is docker and why use it", "label": "explain"}
+{"text": "explain the box model in css", "label": "explain"}
+{"text": "difference between let and const", "label": "explain"}
+{"text": "how do apis work", "label": "explain"}
+{"text": "closure kaise kaam karta hai js me? samjhao.", "label": "explain"}
+{"text": "recursive function kya hota hai example do.", "label": "explain"}
+{"text": "sql aur nosql me difference kya hai exactly?", "label": "explain"}
+{"text": "react components explain karo simple language me.", "label": "explain"}
+{"text": "docker kyu use karte hai hum log?", "label": "explain"}
+{"text": "git workflow samjha do ek baar.", "label": "explain"}
+{"text": "css flexbox vs grid konsa acha hai?", "label": "explain"}
+{"text": "api integration kaise hota hai explain kardo.", "label": "explain"}
+{"text": "next js vs react, konsa best h?", "label": "explain"}
+{"text": "database indexes kya hote h kyu use kare?", "label": "explain"}
+{"text": "explain how closre works in javascripts", "label": "explain"}
+{"text": "waht is a recursve function and how used?", "label": "explain"}
+{"text": "tell me abot react hooks feature", "label": "explain"}
+{"text": "explain why my code is slow", "label": "explain"}
+{"text": "what is the difernce between var and let?", "label": "explain"}
+{"text": "how browser render a web page?", "label": "explain"}
+{"text": "explain basics of programmng", "label": "explain"}
+{"text": "what is a variable in simple terms", "label": "explain"}
+{"text": "tell me about backend technologies", "label": "explain"}
+{"text": "how to learn coding fastly?", "label": "explain"}
+{"text": "Please list all the files and subdirectories in the current workspace.", "label": "file_ops"}
+{"text": "I would like you to delete the temporary logs folder and its contents.", "label": "file_ops"}
+{"text": "Could you read the contents of the main configuration file for me?", "label": "file_ops"}
+{"text": "Show me the directory structure of the project in a tree format.", "label": "file_ops"}
+{"text": "Remove the redundant index.old.html file from the public directory.", "label": "file_ops"}
+{"text": "I need to inspect the package.json file to check the project version.", "label": "file_ops"}
+{"text": "List all hidden files in the root directory as well.", "label": "file_ops"}
+{"text": "Move the assets folder into the src directory for better organization.", "label": "file_ops"}
+{"text": "Find all files that were modified in the last 24 hours.", "label": "file_ops"}
+{"text": "Identify and remove any empty directories in the project root.", "label": "file_ops"}
+{"text": "list all files and folders here", "label": "file_ops"}
+{"text": "delete this folder", "label": "file_ops"}
+{"text": "show contents of app.py", "label": "file_ops"}
+{"text": "ls -la", "label": "file_ops"}
+{"text": "remove corrupt.txt", "label": "file_ops"}
+{"text": "open the config file", "label": "file_ops"}
+{"text": "tree view of project", "label": "file_ops"}
+{"text": "find index.html", "label": "file_ops"}
+{"text": "show all files", "label": "file_ops"}
+{"text": "delete logs folder", "label": "file_ops"}
+{"text": "saare files dikhao list me", "label": "file_ops"}
+{"text": "folder delete kar do ye wala", "label": "file_ops"}
+{"text": "file read karna hai check configuration", "label": "file_ops"}
+{"text": "project structure tree view me dikhao", "label": "file_ops"}
+{"text": "old files remove kar do root se", "label": "file_ops"}
+{"text": "cat command on readme file", "label": "file_ops"}
+{"text": "find karo main script kaha h", "label": "file_ops"}
+{"text": "files list kar do metadata ke saath", "label": "file_ops"}
+{"text": "folder structure check karna h", "label": "file_ops"}
+{"text": "log cleanup kar do delete logs", "label": "file_ops"}
+{"text": "list all files and floders here now", "label": "file_ops"}
+{"text": "delte this floder from my project", "label": "file_ops"}
+{"text": "show contents of index.htm", "label": "file_ops"}
+{"text": "red file content for checking", "label": "file_ops"}
+{"text": "list filess in root directory", "label": "file_ops"}
+{"text": "remve the old file from here", "label": "file_ops"}
+{"text": "tree command to see project", "label": "file_ops"}
+{"text": "cat index.js file information", "label": "file_ops"}
+{"text": "look at files in my app", "label": "file_ops"}
+{"text": "cleanup project by deleting files", "label": "file_ops"}
+{"text": "Hello QuickVibeAI, how are you doing today?", "label": "casual"}
+{"text": "Thank you so much for your assistance, I appreciate it.", "label": "casual"}
+{"text": "Good morning! I hope you're ready for some coding.", "label": "casual"}
+{"text": "That was an excellent explanation, thanks a lot.", "label": "casual"}
+{"text": "I'm feeling quite productive today, how about you?", "label": "casual"}
+{"text": "Goodbye for now, I'll be back later in the evening.", "label": "casual"}
+{"text": "Amazing work! You've been a huge help to me.", "label": "casual"}
+{"text": "Hey there, just hanging out and doing some work.", "label": "casual"}
+{"text": "I'm really impressed with how fast you are.", "label": "casual"}
+{"text": "Have a great day ahead!", "label": "casual"}
+{"text": "hi", "label": "casual"}
+{"text": "hello", "label": "casual"}
+{"text": "thanks", "label": "casual"}
+{"text": "good job", "label": "casual"}
+{"text": "how are you", "label": "casual"}
+{"text": "ok", "label": "casual"}
+{"text": "cool", "label": "casual"}
+{"text": "bye", "label": "casual"}
+{"text": "nice", "label": "casual"}
+{"text": "awesome", "label": "casual"}
+{"text": "yo bhai kya haal h?", "label": "casual"}
+{"text": "thanks yaara tune bahut help ki.", "label": "casual"}
+{"text": "kal milte h bye bye.", "label": "casual"}
+{"text": "ek number kaam kiya tune mast.", "label": "casual"}
+{"text": "shukriya boss help ke liye.", "label": "casual"}
+{"text": "theek h bhai samajh gaya ok.", "label": "casual"}
+{"text": "kaafi fast h tu thnx.", "label": "casual"}
+{"text": "kaise ho QuickVibe?", "label": "casual"}
+{"text": "mast lag raha h project.", "label": "casual"}
+{"text": "milte h later.", "label": "casual"}
+{"text": "hlo", "label": "casual"}
+{"text": "thx", "label": "casual"}
+{"text": "gud job", "label": "casual"}
+{"text": "how r u?", "label": "casual"}
+{"text": "alrite", "label": "casual"}
+{"text": "cu later", "label": "casual"}
+{"text": "good mrning", "label": "casual"}
+{"text": "beack soon", "label": "casual"}
+{"text": "ty for help", "label": "casual"}
+{"text": "everything is fine thx", "label": "casual"}
+{"text": "build a dashboard with charts", "label": "frontend"}
+{"text": "create a login system with jwt", "label": "backend"}
+{"text": "make a sidebar with hover effects", "label": "frontend"}
+{"text": "set up a postgres database", "label": "backend"}
+{"text": "explain how closure works in javascript", "label": "explain"}
+{"text": "run a docker container for redis", "label": "command"}
+{"text": "list all files and folders here", "label": "file_ops"}
+{"text": "create a new folder called todo", "label": "hybrid"}
+{"text": "write a python script to scrape news", "label": "hybrid"}
+{"text": "npm install tailwindcss", "label": "command"}
+{"text": "how to center a div", "label": "frontend"}
+{"text": "design a landing page for my saas", "label": "frontend"}
+{"text": "connect my app to an api", "label": "backend"}
+{"text": "what is a recursive function", "label": "explain"}
+{"text": "delete this folder", "label": "file_ops"}
