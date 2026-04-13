@@ -88,8 +88,8 @@
 {"text": "Build a SaaS starter kit with subscription management, user roles, and a settings page.", "label": "hybrid"}
 {"text": "Develop a full-stack POS system with inventory tracking and sales reports.", "label": "hybrid"}
 {"text": "Create a social media clone with post creation, likes, and comment functionality.", "label": "hybrid"}
-{"text": "create a new folder called todo", "label": "hybrid"}
-{"text": "write a python script to scrape news", "label": "hybrid"}
+{"text": "create a new folder called todo", "label": "file_ops"}
+{"text": "write a python script to scrape news", "label": "backend"}
 {"text": "build a fullstack app from scratch", "label": "hybrid"}
 {"text": "setup a new project with all tools", "label": "hybrid"}
 {"text": "create a blog with dashboard", "label": "hybrid"}
@@ -108,8 +108,8 @@
 {"text": "new startup idea hai project create karo", "label": "hybrid"}
 {"text": "saas platform ka basic structure bana do", "label": "hybrid"}
 {"text": "complete website design with database integration", "label": "hybrid"}
-{"text": "write a pyhton script to scrap news", "label": "hybrid"}
-{"text": "create a new floder called todo app", "label": "hybrid"}
+{"text": "write a pyhton script to scrap news", "label": "backend"}
+{"text": "create a new floder called todo app", "label": "file_ops"}
 {"text": "build a fullstack apps for my work", "label": "hybrid"}
 {"text": "mak a blog with dashbord area", "label": "hybrid"}
 {"text": "full stack proyect setup nedeed", "label": "hybrid"}
@@ -117,7 +117,7 @@
 {"text": "integrate frontend backend together", "label": "hybrid"}
 {"text": "make a complete web site for me", "label": "hybrid"}
 {"text": "scaffold project with database", "label": "hybrid"}
-{"text": "setup all folders for development", "label": "hybrid"}
+{"text": "setup all folders for development", "label": "file_ops"}
 {"text": "Please execute the command to install the necessary dependencies for this project.", "label": "command"}
 {"text": "I would like you to run the development server for the current application.", "label": "command"}
 {"text": "Could you perform a clean build of the production assets using npm?", "label": "command"}
@@ -278,18 +278,4 @@
 {"text": "beack soon", "label": "casual"}
 {"text": "ty for help", "label": "casual"}
 {"text": "everything is fine thx", "label": "casual"}
-{"text": "build a dashboard with charts", "label": "frontend"}
-{"text": "create a login system with jwt", "label": "backend"}
-{"text": "make a sidebar with hover effects", "label": "frontend"}
-{"text": "set up a postgres database", "label": "backend"}
-{"text": "explain how closure works in javascript", "label": "explain"}
-{"text": "run a docker container for redis", "label": "command"}
-{"text": "list all files and folders here", "label": "file_ops"}
-{"text": "create a new folder called todo", "label": "hybrid"}
-{"text": "write a python script to scrape news", "label": "hybrid"}
-{"text": "npm install tailwindcss", "label": "command"}
-{"text": "how to center a div", "label": "frontend"}
-{"text": "design a landing page for my saas", "label": "frontend"}
-{"text": "connect my app to an api", "label": "backend"}
-{"text": "what is a recursive function", "label": "explain"}
-{"text": "delete this folder", "label": "file_ops"}
+
